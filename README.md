@@ -12,7 +12,7 @@ How to run project:
 https://github.com/vishalsingh17/OlympicsDataAnalysisWebapp
 ```
 ```
-cd FitnessVideoApp
+cd OlympicsDataAnalysisWebapp
 ```
 ```
 conda create -p venv python==3.10.4
